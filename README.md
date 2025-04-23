@@ -58,8 +58,6 @@ Dont forget to fork & star repo
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
 
-  <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/warning.gif?raw=true" width="15"/> 
 
 <div align="center">
   <img src="https://github.com/bmbxmd/B.M.B-XMD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
