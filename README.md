@@ -58,11 +58,11 @@ Dont forget to fork & star repo
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
 
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=DEPLOYMENT.OPTION" alt="Typing SVG" /></a>
   </p>
-
 ---
-
 <h4 align="center">2. heroku</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
