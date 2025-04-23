@@ -152,7 +152,7 @@ That's all bot connected
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://www.mediafire.com/file/at7yp0spnfs5p35/B.M.B-XMD-main.bmb/file' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-zip file-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white'/< width=150 height=28/p></a> </a>
 
 <details>
   
