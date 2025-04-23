@@ -174,7 +174,7 @@ That's all bot connected
 1. Go to bot-hosting.co/join and create an account and verify your email too.
 
 `Step 2`
-1. Go to https://huggingface.co/spaces/bmbxmd/B.M.B-XMD
+1. Go to the https://bot-hosting.net/?aff=1338673948329508876
 
 2. Tap on *three dots* _(as shown in image)_
 
