@@ -40,10 +40,7 @@ Dont forget to fork & star repo
 </div>
 
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
-
-<h4 align="center">1. follow my account</h4>
-<p style="text-align: center; font-size: 1.2em;">
-
+  
 <p align="center">
 <a href='https://gitHub.com/bmbxmd' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-follow bmb account-FF004D?style=for-the-badge&logo=account&logoColor=white'/< width=150 height=28/p></a>
   
