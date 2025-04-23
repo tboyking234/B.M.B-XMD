@@ -160,9 +160,9 @@ That's all bot connected
 <p style="text-align: center; font-size: 1.2em;">
  
 
-<h3 align="center"> HOW TO DEPLOY ON HUGGING FACE</h3>
+<h3 align="center">DOWNLOAD ZIP FILE </h3>
 <h6 align-"center">
-*❄️ Deploy bmb xmd On Hugging Face For Free !*
+*❄️ Deploy bmb xmd On bot-hosting For Free !*
 
 `Specs :`
 - v2 CPU
@@ -171,7 +171,7 @@ That's all bot connected
 > `Steps to deploy`
 
 `Step 1`
-1. Go to hugginface.co/join and create an account and verify your email too.
+1. Go to bot-hosting.co/join and create an account and verify your email too.
 
 `Step 2`
 1. Go to https://huggingface.co/spaces/bmbxmd/B.M.B-XMD
